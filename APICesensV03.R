@@ -1,8 +1,3 @@
-# Documentacion
-# https://rviews.rstudio.com/2018/07/23/rest-apis-and-plumber/
-# https://www.tylerclavelle.com/code/2017/randapis/
-
-
 # Environment Variables
 urlRoot_CESENS = "https://app.cesens.com/api/"
 DEBUG = FALSE
